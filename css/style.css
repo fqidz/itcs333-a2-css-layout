@@ -1,5 +1,5 @@
 #site-header {
-  padding: 1em;
+  padding: 16px;
   border-bottom: 2px solid;
 }
 
@@ -11,12 +11,12 @@
 
 .card-grid {
   display: grid;
-  gap: 0.5em;
+  gap: 16px;
   grid-template-columns: 1fr 1fr 1fr;
 }
 
 form input {
-  padding: 0.25em;
+  padding: 6px;
 }
 
 form input:focus {
